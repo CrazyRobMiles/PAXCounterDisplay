@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "xlocbuf": "cpp",
+        "mutex": "cpp",
+        "system_error": "cpp",
+        "xiosbase": "cpp"
+    }
+}
